@@ -2,7 +2,7 @@
 - [ ] PL I'm Polish.
 - [ ] 🏁 I started learning programming in 2021.
 - [ ] 💻 My first programming language was Python.
-- [ ] 🔧 Now my focus is to learn and improve my pentesting skills.
+- [ ] 🔧 Now my focus is to learn and improve my coding and pentesting skills.
 - [ ] 🎲 Fun fact, I love play strategy games and listening to mata songs.
 
 # My Projects ⚙️
