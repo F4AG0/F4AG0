@@ -11,4 +11,4 @@
 
 # What languages I code? 💻
 - [ ] Python
-- [ ] learning C/C#
+- [ ] learning C/C++
