@@ -6,7 +6,7 @@
 - [ ] 🎲 Fun fact, I love play strategy games and listening to mata songs.
 
 # My Projects ⚙️
-- [ ] I have no public projects
+- [ ] Ayounma
 - [ ] (More amazing projects will be added, I just need more time)
 
 # What languages I code? 💻
